@@ -3,8 +3,9 @@ VIZCryptography
 Izdelajte program za šifriranje in dešifriranje poljubne datoteke (npr. zip, exe, doc, ipd.). Program naj podpira algoritma AES in RSA. Pri implementaciji si pomagajte z obstojecimi knjižnicami. Nekaj knjižnic najdete tudi na Moodlu.
 
 V okviru naloge izdelajte aplikacijo, ki vkljucuje naslednje funkcionalnosti:
-+	nalaganje izvorne datoteke,
-+	nalaganje in shranjevanje šifrirane datoteke,
+
++ nalaganje izvorne datoteke,
++ nalaganje in shranjevanje šifrirane datoteke,
 + shranjevanje dešifrirane datoteke,
 + šifriranje in dešifriranje poljubne datoteke,
 + kreiranje, nalaganje in shranjevanje kljuca,
